@@ -55,5 +55,5 @@ namespace Tyuiu.ZhdanovaAA.Sprint4.TaskReview.V11
             Console.WriteLine($"Количество нечетных чисел в матрице = {ds.Calculate(rows, colums, str)}");
             Console.ReadKey();
         }
-    }
+    } 
 }

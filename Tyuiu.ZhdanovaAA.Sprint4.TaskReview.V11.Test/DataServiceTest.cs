@@ -22,4 +22,4 @@ namespace Tyuiu.ZhdanovaAA.Sprint4.TaskReview.V11.Test
             Assert.AreEqual(4, res);
         }
     }
-}
+} 
